@@ -1,0 +1,7 @@
+{
+  "name": "FreshGuard",
+  "description": "An AI-powered app to reduce food waste through spoilage detection, expiry monitoring, and a marketplace for leftovers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
